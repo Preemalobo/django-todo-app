@@ -1,0 +1,24 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.swp
+
+
+# Virtual environment
+venv/
+env/
+
+
+# Django secret files
+*.sqlite3
+db.sqlite3
+.env
+To_Do_List.db/
+
+
+# IDE settings
+.idea/
+
+
+# Python packages
+*.egg-info/
