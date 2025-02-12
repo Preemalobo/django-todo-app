@@ -7,8 +7,8 @@ A simple To-Do application built with Django. Users can add, edit, and delete ta
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Preemalobo/django-todo-app.git
+   cd django-todo-app
 
 2.Create and activate a virtual environment:
 
